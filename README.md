@@ -2,7 +2,7 @@
 
 This repository contains the starter for project one (proposal template)
 in Computer Science 600 Fall 2020. The main directory of this repository
-contains the LaTeX source code for a project that is designed for use with [GitHub Classroom](https://classroom.github.com/). To learn more about the course in which these assignments were completed, please visit the [Computer Science Thesis Fall 2020 Allegheny College GitHub Organization](https://github.com/allegheny-computer-science-thesis-2020).
+contains the LaTeX source code for a project that is designed for use with [GitHub Classroom](https://classroom.github.com/). To learn more about the course in which these assignments were completed, please visit the [Computer Science Thesis Fall 2020 Allegheny College GitHub Organization](https://github.com/Allegheny-Computer-Science-600-F2020).
 
 The LaTeX file in this repository is automatically compiled with [Travis CI](https://travis-ci.org/), thus ensuring that it compiles correctly and, moreover, that a PDF of the project proposal is available in your GitHub
 repository whenever a commit is tagged for a release. Additionally, you can use
@@ -19,7 +19,7 @@ which you create them in LaTeX.
 
 Your course instructor will reduce a researcher's grade for this assignment if
 the pdf of your completed proposal document has not been properly released before the
-assignment's due date on October 16, 2020 at 11:59 pm. Unless
+assignment's due date on October 19, 2020 at 11:59 pm. Unless
 you provide the course instructors with documentation of the extenuating
 circumstances that you are facing, no late work will be considered towards your
 grade for this project.
@@ -82,16 +82,16 @@ Please note that the faculty members who read the PDF that is generated from the
 LaTeX source code will only do so by downloading the "tagged" release of the
 file `senior_thesis_proposal.pdf` that has a version number greater than
 1.0.0. That is, if your commit is tagged with
-`senior_thesis_proposal-jjumadinova-1.0.0`, then the file
+`senior_thesis_proposal-amohan-1.0.0`, then the file
 `senior_thesis_proposal.pdf` should be available for download in the
 "Releases" tab in your GitHub repository for this project under the name
-`senior_thesis_proposal-jjumadinova-1.0.0`.
+`senior_thesis_proposal-amohan-1.0.0`.
 
 Once you have finished making a single small change to the
 `senior_thesis_proposal.tex`, you should commit your file using a `git
 commit` command. Now, to create your first tag for this repository you could
-type `git tag senior_thesis_proposal-jjumadinova-0.1.0`. Of course, you should
-substitute your user name for `jjumadinova` when you create the tag. At this point,
+type `git tag senior_thesis_proposal-amohan-0.1.0`. Of course, you should
+substitute your user name for `amohan` when you create the tag. At this point,
 you are ready to push your changes with the appropriate tag by typing the
 command `git push -u origin master --tags`. After waiting for a period of time,
 you should see that your GitHub repository features a new release of the
@@ -115,7 +115,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download git@github.com:allegheny-computer-science-thesis-2020/cs600f2020_proposal.git
+git remote add download git@github.com:Allegheny-Computer-Science-600-F2020/ cs600f2020_proposal.git
 ```
 
 You should only need to type this command once; typing the command additional
@@ -137,7 +137,7 @@ manually resolve them with the help of the instructor or a teaching assistant.
 
 If you have found a problem with this assignment's provided source code, then
 you can go to the [Computer Science 600 Project 1
-Starter](https://github.com/allegheny-computer-science-thesis-2020/cs600f2020_proposal)
+Starter](https://github.com/Allegheny-Computer-Science-600-F2020/cs600f2020_proposal)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. To ensure that your issue is properly resolved,
 please provide as many details as is possible about the problem that you
